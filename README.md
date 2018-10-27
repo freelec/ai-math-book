@@ -66,6 +66,8 @@ Anaconda가 설치되면 Anaconda Navigator를 사용하여 Jupyter Notebook을 
 
 * [아나콘다 다운로드](https://www.anaconda.com/download/)
 
+![](/images/installation/001.png)
+
 다음은 Windows에서 설치하는 과정이나 MacOS에서 설치하는 과정도 크게 다르지 않습니다.
 설치하는 버전은 다음과 같습니다. (2018년 10월 기준)
 
@@ -73,30 +75,46 @@ Anaconda가 설치되면 Anaconda Navigator를 사용하여 Jupyter Notebook을 
 * Python 3.7
 * 64bit Graphical Installer (자신의 PC 환경에 맞는 비트를 선택)
 
-TBD: 이미지 삽입
+다운로드 받은 파일은 다음과 같습니다.
 
-다운로드 파일을 실행합니다.
+![](/images/installation/003.png)
 
-TBD: 이미지 삽입
+다운로드 받은 파일을 실행합니다.
 
-프로그램 목록에서 다음과 같은 프로그램이 설치되어 있는지 확인합니다. 
+![](/images/installation/004.png)
 
-TBD: 이미지 삽입
+이후 기본 설정으로 설치를 진행합니다.
+
+![](/images/installation/005.png)
+
+![](/images/installation/006.png)
+
+![](/images/installation/007.png)
+
+![](/images/installation/008.png)
+
+![](/images/installation/009.png)
+
+![](/images/installation/010.png)
+
+![](/images/installation/011.png)
 
 ### Anaconda Navigator 실행
 
-Anaconda 설치가 완료되었다면 이제 Anaconda Navigator를 실행합니다.
+설치가 완료되었으면 실행을 해봅니다. 'anaconda navigator'를 검색하면 실행 파일을 찾을 수 있습니다.
 
-TBD: 이미지 삽입
-
+![](/images/installation/012.png)
 
 ### Jupyter Notebook 실행
 
 Anaconda Navigator를 실행해보면 그 안에 Jupyter Notebook이 포함되어 있는 것을 알 수 있습니다.
 Jupyter Notebook을 Lauch합니다.
 
-TBD: 이미지 삽입
+![](/images/installation/013.png)
 
+![](/images/installation/014.png)
+
+이제 실습을 할 준비가 되었습니다.
 
 ### 실습할 소스파일 다운로드 및 Jupyter Notebook에서 읽기
 
