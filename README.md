@@ -40,24 +40,80 @@ TBD: 책 표지 이미지 넣을 것
 - (주피터 노트북을 사용하지 않고 직접 pip를 사용하는 경우에는 'requirements.txt'를 참고)
 
 
+## 실습 목표
+
+제공되는 소스코드를 Jupyter Notebook에서 실행해보면서 책에서 배운 내용을 상기하는 것이 목적입니다.
+인공지능에서 활용되는 수학적 개념이 실제로 어떻게 쓰이는지 체험해보시기 바랍니다.
+
+이 책은 인공지능에 활용되는 수학적 개념과 활용되는 방식을 쉽게 감 잡으실 수 있도록 
+실습에 필요한 Python과 Jupyter Notebook, Anaconda과 같은 환경에 대해서는 
+실습에 필요한 최소한의 내용만 다루고 있습니다.
+
+좀 더 자세한 내용을 알고 싶다면 Python과 Jupyter Notebook, Anaconda와 관련된 
+별도의 책이나 온라인 문서를 참고하시기 바랍니다. 
+
+
+
+
 ## 실행 환경 구성 방법
 
 실습의 편의를 위해 Python과 Jupyter Notebook을 직접 설치하여 사용하는 대신 Anaconda를 설치합니다.
 Anaconda가 설치되면 Anaconda Navigator를 사용하여 Jupyter Notebook을 사용합니다.
 
-### Anaconda 설치 방법
+### Anaconda 다운로드 및 설치
 
 다음 경로에서 자신의 운영체제에 맞는 아나콘다를 설치합니다.
 
 * [아나콘다 다운로드](https://www.anaconda.com/download/)
 
 다음은 Windows에서 설치하는 과정이나 MacOS에서 설치하는 과정도 크게 다르지 않습니다.
+설치하는 버전은 다음과 같습니다. (2018년 10월 기준)
+
+* Anaconda 5.3
+* Python 3.7
+* 64bit Graphical Installer (자신의 PC 환경에 맞는 비트를 선택)
+
+TBD: 이미지 삽입
+
+다운로드 파일을 실행합니다.
+
+TBD: 이미지 삽입
+
+프로그램 목록에서 다음과 같은 프로그램이 설치되어 있는지 확인합니다. 
+
+TBD: 이미지 삽입
+
+### Anaconda Navigator 실행
+
+Anaconda 설치가 완료되었다면 이제 Anaconda Navigator를 실행합니다.
 
 TBD: 이미지 삽입
 
 
+### Jupyter Notebook 실행
 
-## 실행시 주의 사항 
+Anaconda Navigator를 실행해보면 그 안에 Jupyter Notebook이 포함되어 있는 것을 알 수 있습니다.
+Jupyter Notebook을 Lauch합니다.
+
+TBD: 이미지 삽입
+
+
+### 실습할 소스파일 다운로드 및 Jupyter Notebook에서 읽기
+
+Jupyter Notebook에서 실행할 소스파일을 다운로드 받습니다. 
+Git으로 Clone 받는 것이 일반적이지만 직접 소스코드를 다운로드 받아도 상관없습니다.
+
+TBD: 이미지 삽입
+
+다운로드 받은 파일을 Jupyter Notebook에서 읽어들입니다.
+
+TBD: 이미지 삽입
+
+이제 실습을 해볼 준비가 되었습니다.
+
+### 실습하기
+
+각 소스코드는 다음과 같은 순서로 실행을 해주십시오. 
 
 폴더 | 실행 순서
 -- | -- 
