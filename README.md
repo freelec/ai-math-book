@@ -35,14 +35,27 @@ TBD: 책 표지 이미지 넣을 것
 
 
 ## 실습을 위한 필요 사양
-- 파이썬 3.4 이상
-- 주피터 노트북
+- Python 3.4 이상
+- Jupyter Notebook
 - (주피터 노트북을 사용하지 않고 직접 pip를 사용하는 경우에는 'requirements.txt'를 참고)
 
 
 ## 실행 환경 구성 방법
 
-TBD: Anaconda Navigator 설치 방법 안내
+실습의 편의를 위해 Python과 Jupyter Notebook을 직접 설치하여 사용하는 대신 Anaconda를 설치합니다.
+Anaconda가 설치되면 Anaconda Navigator를 사용하여 Jupyter Notebook을 사용합니다.
+
+### Anaconda 설치 방법
+
+다음 경로에서 자신의 운영체제에 맞는 아나콘다를 설치합니다.
+
+* [아나콘다 다운로드](https://www.anaconda.com/download/)
+
+다음은 Windows에서 설치하는 과정이나 MacOS에서 설치하는 과정도 크게 다르지 않습니다.
+
+TBD: 이미지 삽입
+
+
 
 ## 실행시 주의 사항 
 
