@@ -29,5 +29,5 @@ Python으로 만들어져 있으며 간단한 동작 확인을 Jupyter Notebook�
 * [02_nlp 실행 결과 확인](/02_nlp/main.ipynb)
 * [03_deeplearning 실행 결과 확인](/03_deeplearning/main.ipynb)
 
-
+실습 데이터 및 소스를 수정하는 과정에서 실습 결과가 책의 내용과 수치가 다르게 나올 수도 있습니다.
 
