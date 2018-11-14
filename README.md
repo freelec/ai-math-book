@@ -5,6 +5,8 @@
 일본어 원서의 소스코드를 번역서에 맞게 수정하였습니다. 
 일부 내용은 한국 독자를 위해 책의 내용과 소스코드를 완전히 새로 구성하였습니다.
 
+!(https://github.com/freelec/ai-math-book/blob/master/images/cover/cover.jpg|width=200)
+
 ## 소스 코드 구성
 Python으로 만들어져 있으며 간단한 동작 확인을 Jupyter Notebook에서 확인할 수 있게 만들어졌습니다.
 
