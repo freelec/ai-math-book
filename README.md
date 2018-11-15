@@ -33,3 +33,8 @@ Python으로 만들어져 있으며 간단한 동작 확인을 Jupyter Notebook�
 
 실습 데이터 및 소스를 수정하는 과정에서 실습 결과가 책의 내용과 수치가 다르게 나올 수도 있습니다.
 
+
+## 도서 구입 안내
+
+* [YES24](http://www.yes24.com/24/goods/66913718)
+* [알라딘](http://aladin.kr/p/yL9LQ)
