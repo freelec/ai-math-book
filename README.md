@@ -36,5 +36,6 @@ Python으로 만들어져 있으며 간단한 동작 확인을 Jupyter Notebook�
 
 ## 도서 구입 안내
 
-* [YES24](http://www.yes24.com/24/goods/66913718)
 * [알라딘](http://aladin.kr/p/yL9LQ)
+* [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788965402282)
+
